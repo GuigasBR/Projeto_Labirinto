@@ -1,5 +1,6 @@
 #!/usr/bin/env pybricks-micropython
 # -*- coding: utf-8 -*-
+#kkkkk
 """
 Labirinto EV3 (Pybricks / MicroPython)
 O robô APRENDE (explora), MEMORIZA (salva a matriz em arquivo) e depois
